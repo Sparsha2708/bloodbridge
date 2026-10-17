@@ -17,3 +17,4 @@
 - Part 2 (Hospital): updates `request_participants.status` (arrived/donated/deferred/no_show) and `blood_requests.units_fulfilled` / `status`.
 - Part 3 (Supabase): reconcile table/column names; swap my schema file for the master one.
 - Part 4: sets `donors.id_verified`; trust history reads `request_participants`.
+# bloodbridge
